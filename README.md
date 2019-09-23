@@ -1,4 +1,4 @@
 # hello-world
 
-carmelo anthony.
-james harden.
+carmelo anthony
+james harden
